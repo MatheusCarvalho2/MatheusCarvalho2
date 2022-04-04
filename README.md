@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with Node.js and SQL.
 - 💬 Ask me about Node.js ,JavaScript and HTML5.
 - 📫 How to reach me: https://www.instagram.com/matheus_carvalho_1
-- I'm studying in: https://www.rocketseat.com.br/
--     
+- 💻 I'm studying programming in: https://www.rocketseat.com.br/
