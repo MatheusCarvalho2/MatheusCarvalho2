@@ -1,7 +1,7 @@
 ### Hello how are you? i'm Matheus.
 
 - :bar_chart: I'm working as a data analyst.
-- 🌱 I’m currently learning Node.js React.js and SQL.
+- 🌱 I’m currently learning Node.js, React.js and SQL.
 - 💬 Ask me about Node.js ,React.js and HTML5.
 - 💻 I'm studying programming at: [RocketSeat 🚀](https://www.rocketseat.com.br/) and [Curso em vídeo](https://www.cursoemvideo.com/)
 
